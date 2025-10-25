@@ -1,0 +1,5 @@
+{
+  "ZOHO_EMAIL": "yourname@zohomail.com",
+  "ZOHO_APP_PASSWORD": "your_app_password",
+  "GITTREND_API": "https://ghapi.huchen.dev/repositories?language=python&since=daily"
+}

@@ -1,0 +1,6 @@
+{
+    "email": "your_zoho_email@example.com",
+    "password": "your_zoho_password_or_app_password",
+    "smtp_server": "smtp.zoho.com",
+    "smtp_port": 587
+}
