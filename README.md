@@ -24,7 +24,7 @@ The **Subscription** adds automation, dashboards, and premium email delivery.
 | Automated daily emails | ❌ | ✅ |
 | Advanced analytics dashboard | ❌ | ✅ |
 | Priority API access | ❌ | ✅ |
-| Subscription based | ❌ | ₹ 999 / year |
+| Subscription based | ❌ | ₹ 599 / year |
 | Easy Zoho integration | ✅ | ✅ |
 
 ---
