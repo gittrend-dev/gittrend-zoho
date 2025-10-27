@@ -1,6 +1,6 @@
 # 🚀 GitTrend Zoho – Free & Subscription
 
-[![GitTrend Zoho  Subscription – Upgrade Now](https://img.shields.io/badge/Upgrade%20to-GitTrend%20Subscription%20%E2%9C%A8-blue?style=for-the-badge)](#-upgrade-to-gittrend-zoho-Subscription-999year)
+[![GitTrend Zoho  Subscription – Upgrade Now](https://img.shields.io/badge/Upgrade%20to-GitTrend%20Subscription%20%E2%9C%A8-blue?style=for-the-badge)](#-upgrade-to-gittrend-zoho-Subscription-599year)
 
 > 💡 **Discover trending GitHub repositories and send them to your inbox — powered by Zoho Mail.**  
 > Free local version + optional  Subscription for automation and analytics.
