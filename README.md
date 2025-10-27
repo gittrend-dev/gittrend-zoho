@@ -35,7 +35,7 @@ The **Subscription** adds automation, dashboards, and premium email delivery.
 - Zoho Mail account with **App Password**
 - Basic GitHub API access (no token required)
 - Internet connection
-"C:\Users\sheet\Desktop\gittrend-zoho"
+"C:\Users\Desktop\gittrend-zoho"
 ---
 
 ## 🪜 Installation & Setup

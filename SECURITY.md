@@ -26,7 +26,7 @@ This document outlines how to report vulnerabilities, what happens after you do,
 
 If you discover a potential security issue within **GitTrend Zoho**, please contact us **privately** first:
 
-- 📧 **Email:** `security.gittrend@gmail.com`
+- 📧 **Email:** `gittrendrepos@gmail.com`
 - 🧾 **Include Details:**
   - Description of the issue
   - Steps to reproduce
